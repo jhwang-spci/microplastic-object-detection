@@ -1,0 +1,11 @@
+
+train: ../microplastic_datasets/images/train
+val: ..../microplastic_datasets/images/valid 
+
+
+# Classes
+nc: 5  # number of classes
+names: ['foam','fiber','film','sphere','fragment']  # class names
+
+
+
